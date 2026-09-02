@@ -1,6 +1,6 @@
 ## EX.NO-1: Creating a Private Blockchain
-## Name : Sahith M
-## Register number : 212224230236
+## Name : Nather Nabeel S A C
+## Register number : 212224100040
 ## AIM: To create a Private Blockchain, add nodes, create accounts, transfer Ether into it by creating and deploying a Smart Contract.
 
 ## PROCEDURE
